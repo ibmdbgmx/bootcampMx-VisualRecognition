@@ -1,52 +1,16 @@
-body {
-    /*background-image: url("./jol.jpg");
-    background-size: 100%;
-
-    background-repeat: no-repeat;*/
-    background: linear-gradient(to bottom right,red,#33cccc);
-    font-family: 'Source Code Pro', monospace;
-    width: 100%;
-    display: flex;
-    align-content: center;
-}
-.lol{
-  width: 600px;
-}
-
-label{
-  display: flex;
-  justify-content: flex-start;
-  color: white;
-}
-h1
+.img-s
 {
-  display: flex;
-  justify-content: center;
-  font-weight: bold;
-  color: white;
-
+height: 100px;
+width: 100px;
 }
-.container
+form
 {
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
+display: flex;
+flex-direction: column;
+align-content: center;
 }
-#video1
-{
-  position: fixed;
-    left: 0;
-    bottom: : 0;
-    min-width: 100%;
-    min-height: 100%;
-    z-index: -100;
 
-}
-h2
+#sdb
 {
-  color: white;
-  margin-bottom: 40px;
-  font-weight: bolder;
+  margin-top: 10px;
 }
